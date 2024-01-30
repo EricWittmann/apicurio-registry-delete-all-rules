@@ -1,0 +1,11 @@
+{
+   "type" : "record",
+   "namespace" : "Tutorialspoint",
+   "name" : "Employee",
+   "topic": "my-topic",
+   "artifactVersion": "2",
+   "fields" : [
+      { "name" : "Name" , "type" : "string" },
+      { "name" : "Age" , "type" : "int" }
+   ]
+}
